@@ -17,6 +17,10 @@ const ROUTES = [
   title: "React draggable",
   href: "/react-draggable",
  },
+ {
+  title: "Conclusion",
+  href: "/conclusion",
+ },
 ];
 
 export default function Home() {
