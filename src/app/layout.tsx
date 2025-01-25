@@ -14,9 +14,9 @@ export default function RootLayout({
 }>) {
  return (
   <html lang="en">
-   <body className={` antialiased bg-slate-900`}>
-    <header className="p-5 flex items-center justify-center shadow-md shadow-slate-800">
-     <Link href={"/"} className="text-3xl font-bold text-center text-white">
+   <body className={` antialiased `}>
+    <header className="p-5 flex items-center justify-center shadow-md">
+     <Link href={"/"} className="text-3xl font-bold text-center text-black">
       Next Application
      </Link>
     </header>
